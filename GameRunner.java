@@ -11,7 +11,7 @@ public class GameRunner
 
     Board.populate(); // static method call
     
-    Game nim = new Game(); 
+    Game nim = new Game();
     nim.play();
     
   }
